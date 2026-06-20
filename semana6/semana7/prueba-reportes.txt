@@ -1,0 +1,1 @@
+Cuando se envía un reporte con la ruta POST, la información queda guardada en la lista de reportes. Al consultar la ruta GET /reportes, el servidor muestra todos los reportes registrados. Esto permite ver la información almacenada de forma organizada.
