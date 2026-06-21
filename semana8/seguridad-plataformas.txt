@@ -1,1 +1,5 @@
-
+1. No exponer datos personales.
+2. Usar contraseñas seguras.
+3. Proteger credenciales.
+4. Usar HTTPS.
+5. Limitar accesos.
