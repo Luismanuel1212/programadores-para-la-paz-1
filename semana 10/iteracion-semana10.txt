@@ -1,0 +1,14 @@
+Las dos tareas que haría primero son:
+
+1. Registrar una incidencia.
+2. Enviar una alerta en Telegram al coordinador.
+
+¿Por qué son las más importantes?
+
+Porque primero se necesita registrar la información y luego avisar al equipo para que pueda revisarla rápidamente.
+
+Definición de terminado:
+
+- La función trabaja correctamente.
+- Fue probada y no presenta errores.
+- Quedó registrada y guardada en Git.
